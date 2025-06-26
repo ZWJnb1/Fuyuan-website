@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fuyuan Flowers - Premium Flower Company</title>
+    <link>http://localhost:1313/Fuyuan-website/</link>
+    <description>Recent content on Fuyuan Flowers - Premium Flower Company</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 16:45:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Fuyuan-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Fuyuan Flowers</title>
+      <link>http://localhost:1313/Fuyuan-website/about/</link>
+      <pubDate>Thu, 26 Jun 2025 16:45:05 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/about/</guid>
+      <description>Learn about Fuyuan Flowers - your premier destination for beautiful flowers, expert gardening advice, and professional landscaping solutions.</description>
+    </item>
+    <item>
+      <title>Indoor Plant Care Tips: Creating a Thriving Green Sanctuary</title>
+      <link>http://localhost:1313/Fuyuan-website/posts/indoor-plant-care-tips/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:48 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/posts/indoor-plant-care-tips/</guid>
+      <description>Master the art of indoor gardening with expert tips on plant selection, watering, lighting, and troubleshooting common houseplant problems.</description>
+    </item>
+    <item>
+      <title>Spring Flower Arrangements: Bringing Fresh Beauty Indoors</title>
+      <link>http://localhost:1313/Fuyuan-website/posts/spring-flower-arrangements/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:41 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/posts/spring-flower-arrangements/</guid>
+      <description>Learn to create stunning spring flower arrangements with seasonal blooms, expert techniques, and design principles for beautiful home décor.</description>
+    </item>
+    <item>
+      <title>The Complete Rose Garden Guide: From Planting to Blooming</title>
+      <link>http://localhost:1313/Fuyuan-website/posts/rose-garden-guide/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:33 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/posts/rose-garden-guide/</guid>
+      <description>Discover the secrets to growing beautiful roses in your garden with our comprehensive guide covering varieties, planting, care, and maintenance.</description>
+    </item>
+  </channel>
+</rss>

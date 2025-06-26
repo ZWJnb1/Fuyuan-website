@@ -1,0 +1,128 @@
+/* Custom CSS for Fuyuan Flowers - Green and White Theme */
+
+:root {
+    --primary-green: #2d5a27;
+    --light-green: #4a7c59;
+    --accent-green: #6b8e23;
+    --soft-green: #90ee90;
+    --background-white: #ffffff;
+    --text-dark: #2d5a27;
+    --text-light: #666666;
+    --border-light: #e8f5e8;
+}
+
+/* Override theme colors */
+.main {
+    background-color: var(--background-white);
+}
+
+/* Header styling */
+.header {
+    background-color: var(--background-white);
+    border-bottom: 2px solid var(--border-light);
+}
+
+.logo a {
+    color: var(--primary-green) !important;
+    font-weight: 700;
+}
+
+/* Navigation */
+.nav a {
+    color: var(--primary-green);
+}
+
+.nav a:hover {
+    color: var(--accent-green);
+}
+
+/* Home page hero section */
+.home-info .entry-content {
+    color: var(--text-dark);
+}
+
+.home-info h1 {
+    color: var(--primary-green);
+}
+
+/* Post styling */
+.post-entry {
+    border: 1px solid var(--border-light);
+    background-color: var(--background-white);
+}
+
+.post-entry:hover {
+    box-shadow: 0 4px 8px rgba(45, 90, 39, 0.1);
+}
+
+.entry-header h2 a {
+    color: var(--primary-green);
+}
+
+.entry-header h2 a:hover {
+    color: var(--accent-green);
+}
+
+/* Tags */
+.post-tags a {
+    background-color: var(--soft-green);
+    color: var(--primary-green);
+    border: 1px solid var(--light-green);
+}
+
+.post-tags a:hover {
+    background-color: var(--light-green);
+    color: white;
+}
+
+/* Buttons */
+.btn, .button {
+    background-color: var(--primary-green);
+    color: white;
+    border: none;
+}
+
+.btn:hover, .button:hover {
+    background-color: var(--light-green);
+}
+
+/* Links */
+a {
+    color: var(--primary-green);
+}
+
+a:hover {
+    color: var(--accent-green);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--primary-green);
+    color: white;
+}
+
+.footer a {
+    color: var(--soft-green);
+}
+
+/* Custom flower-themed decorations */
+.flower-decoration {
+    display: inline-block;
+    color: var(--accent-green);
+    margin: 0 5px;
+}
+
+/* Responsive images */
+.post-content img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(45, 90, 39, 0.15);
+}
+
+/* Custom home page styling */
+.home-info {
+    background: linear-gradient(135deg, var(--background-white) 0%, var(--border-light) 100%);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 2rem 0;
+    border: 2px solid var(--border-light);
+}

@@ -1,0 +1,74 @@
+baseURL = 'https://ZWJnb1.github.io/Fuyuan-website/'
+languageCode = 'en-us'
+title = 'Fuyuan Flowers - Premium Flower Company'
+theme = 'PaperMod'
+
+[params]
+  description = "Premium flowers and gardening solutions for your beautiful spaces"
+  keywords = ["flowers", "gardening", "plants", "landscaping", "floral design"]
+  author = "Fuyuan Flowers"
+
+  # Theme settings
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  # Custom colors for green/white theme
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+
+  # Home page settings
+  [params.homeInfoParams]
+    Title = "Welcome to Fuyuan Flowers"
+    Content = "Your premier destination for beautiful flowers, expert gardening advice, and professional landscaping solutions. Discover the art of floral beauty with our curated collection and expert insights."
+
+  # Social media links
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ZWJnb1"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+# Markup settings
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"

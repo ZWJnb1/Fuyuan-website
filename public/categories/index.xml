@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Fuyuan Flowers - Premium Flower Company</title>
+    <link>http://localhost:1313/Fuyuan-website/categories/</link>
+    <description>Recent content in Categories on Fuyuan Flowers - Premium Flower Company</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 16:41:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Fuyuan-website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indoor Gardening</title>
+      <link>http://localhost:1313/Fuyuan-website/categories/indoor-gardening/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:48 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/categories/indoor-gardening/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Floral Design</title>
+      <link>http://localhost:1313/Fuyuan-website/categories/floral-design/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:41 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/categories/floral-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gardening Tips</title>
+      <link>http://localhost:1313/Fuyuan-website/categories/gardening-tips/</link>
+      <pubDate>Thu, 26 Jun 2025 16:41:33 +0800</pubDate>
+      <guid>http://localhost:1313/Fuyuan-website/categories/gardening-tips/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
