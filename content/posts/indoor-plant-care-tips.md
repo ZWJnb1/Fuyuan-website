@@ -12,7 +12,7 @@ image = '/images/indoor-plants.jpg'
 
 Transform your living space into a lush, green sanctuary with the right knowledge and care techniques. Indoor plants not only beautify your home but also purify the air, reduce stress, and create a connection with nature. Whether you're a beginner plant parent or looking to expand your indoor garden, these comprehensive care tips will help you cultivate healthy, thriving houseplants.
 
-![Indoor Plant Collection](/images/indoor-plants.jpg "A beautiful collection of thriving indoor plants in a bright living room")
+![Indoor Plant Collection](/static/images/indoor-plants.jpg "A beautiful collection of thriving indoor plants in a bright living room")
 
 ## Choosing the Right Plants for Your Space
 
@@ -39,7 +39,7 @@ Before selecting plants, evaluate the lighting conditions in your home:
 - **Chinese Evergreen**: Colorful foliage patterns
 - **Cast Iron Plant**: Nearly indestructible
 
-![Plant Light Requirements](/images/plant-lighting.jpg "Different plants arranged according to their light requirements")
+![Plant Light Requirements](/static/images/plant-lighting.jpg "Different plants arranged according to their light requirements")
 
 ## Essential Care Fundamentals
 
@@ -77,7 +77,7 @@ Before selecting plants, evaluate the lighting conditions in your home:
 - **Soil depleted and compacted**
 - **Generally every 1-3 years** depending on growth rate
 
-![Repotting Process](/images/repotting-plants.jpg "Step-by-step plant repotting demonstration")
+![Repotting Process](/static/images/repotting-plants.jpg "Step-by-step plant repotting demonstration")
 
 ## Lighting Solutions for Every Space
 
@@ -130,7 +130,7 @@ Most houseplants prefer 40-60% humidity, while homes typically maintain 20-30%.
 - **Avoid**: Drafts, heating vents, air conditioning units
 - **Seasonal adjustments**: Cooler winter rest period for some plants
 
-![Humidity Solutions](/images/humidity-solutions.jpg "Various methods for increasing humidity around houseplants")
+![Humidity Solutions](/static/images/humidity-solutions.jpg "Various methods for increasing humidity around houseplants")
 
 ## Fertilizing for Healthy Growth
 
@@ -186,7 +186,7 @@ Most houseplants prefer 40-60% humidity, while homes typically maintain 20-30%.
 - **Treatment**: Yellow sticky traps, beneficial nematodes
 - **Prevention**: Allow soil to dry between waterings
 
-![Plant Pest Identification](/images/plant-pests.jpg "Common houseplant pests and their identifying characteristics")
+![Plant Pest Identification](/static/images/plant-pests.jpg "Common houseplant pests and their identifying characteristics")
 
 ### Disease Prevention
 **Common Fungal Issues**:
